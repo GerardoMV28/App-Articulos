@@ -1,0 +1,39 @@
+.entrada{
+    position: relative;
+}
+i{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.form-control{
+    padding-left: 30px;
+}
+.card{
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+}
+button{
+    width: 100%;
+    background-color: rgb(43, 42, 42);
+}
+.titulo{
+ color: rgb(0, 0, 0);
+ font-size: 40px;
+ font-family:'Times New Roman', Times, serif;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 50%;
+}
+.form-text a { 
+ color: black;
+ font-weight: bold;
+}
+.form-text{
+    font-weight: bo;
+}
